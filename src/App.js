@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Jenkins learning app By Sushil.
+          Jenkins learning app By Sushil
         </a>
       </header>
       <p>Application version: 1</p>
