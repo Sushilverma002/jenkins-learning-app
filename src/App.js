@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <a
           className="App-link"
-          href="https://example.com"
+          href="https://github.com/Sushilverma002/jenkins-learning-app"
           target="_blank"
           rel="noopener noreferrer"
         >
